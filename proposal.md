@@ -39,14 +39,22 @@ Freshman Pathfinder
 
 2. Output: Describe the output your program will produce.
 
-The program will output a list of the class locations, ordered in such a way as to minimize total time spent walking. Included also will be an estimate (pulled from Google Maps) of the total time required to complete the trip.
+The program will output a list of the class locations with their Google Map locations, ordered in such a way as to minimize total time spent walking. Included also will be an estimate (pulled from Google Maps) of the total time required to complete the trip.
 
 Example Output:
 
-B102 Van Vleck
+B102 Van Vleck https://www.google.com/maps/place/Van+Vleck+Hall/@43.0747707,-89.4045918,15z/data=!4m5!3m4!1s0x0:0x49bf687f6d3235d6!8m2!3d43.0747707!4d-89.4045918
+
 CS 1366
+https://www.google.com/maps/place/UW-Madison+Department+of+Computer+Sciences/@43.0714546,-89.4088143,17z/data=!3m1!4b1!4m5!3m4!1s0x8807accf4987c883:0x5c8312db7bc7df9!8m2!3d43.0714507!4d-89.4066203
+
 Humanities 3650
+https://www.google.com/maps/place/George+L+Mosse+Humanities+Building/@43.0741742,-89.4022384,17z/data=!3m1!4b1!4m5!3m4!1s0x8807accae420d1b3:0xff6a958a9f3b112f!8m2!3d43.0741703!4d-89.4000444
+
 Social Sciences 5206
+https://www.google.com/maps/place/William+H.+Sewell+Social+Sciences+Building,+1180+Observatory+Dr,+Madison,+WI+53706/@43.0765045,-89.4074916,17z/data=!3m1!4b1!4m5!3m4!1s0x8807acb62ed610c5:0xaeb4a15899906c15!8m2!3d43.0765006!4d-89.4052976
+
+Total time to complete: ~30 minutes
 
 Total time to complete: ~30 minutes
 

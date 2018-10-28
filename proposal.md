@@ -38,8 +38,7 @@ Freshman Pathfinder
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+The program will produce a list of places to go with the transit time for the path the freshmen needs to take to get to the class. 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 

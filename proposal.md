@@ -51,6 +51,7 @@ Social Sciences 5206
 Total time to complete: ~30 minutes
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 All the buildings the freshman want to visit
 
 Example Input:

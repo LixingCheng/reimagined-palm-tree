@@ -10,7 +10,7 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+Split up the tasks evenly, communicate who is doing what tasks, ensure that no one is doing significantly more work than others
 
 ## How will we will track progress (and follow-up) on completion of tasks
 

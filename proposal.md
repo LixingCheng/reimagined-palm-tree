@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 82 Project Proposal: Freshman PathFinder
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,13 +29,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Every freshman must take a lap of campus prior to the start of classes in order to ensure that he/she can easily get from class to class. But how can this be done efficiently so that one can get back to making new friends? Our program uses data from google maps to determine the most efficient path that a freshman (or forgetful upperclassman) can take to get a feel for the location of all of their classes.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Freshman Pathfinder
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.

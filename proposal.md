@@ -37,8 +37,18 @@ Every freshman must take a lap of campus prior to the start of classes in order 
 Freshman Pathfinder
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-The program will produce a list of places to go with the transit time for the path the freshmen needs to take to get to the class. 
+2. Output: Describe the output your program will produce.
+
+The program will output a list of the class locations, ordered in such a way as to minimize total time spent walking. Included also will be an estimate (pulled from Google Maps) of the total time required to complete the trip.
+
+Example Output:
+
+B102 Van Vleck
+CS 1366
+Humanities 3650
+Social Sciences 5206
+
+Total time to complete: ~30 minutes
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 

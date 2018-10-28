@@ -69,6 +69,7 @@ Social Sciences 5206
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+The user will see a search bar/box that says "Start Typing", in this box the user will begin typing the first class location they wish to input. As they type, the program will begin suggesting results pulled from a pre-loaded list of buildings. Once a building is selected, the user will be able to use a small "add location" button to gain access to another search box in which they can add another class location. In this manner the user will enter in all of the campus buildings they wish to visit. Once the user is satisfied with their building list, they will press a "map" button at the bottom of the screen. On completion of the path calculation, the user will be shown an list of their inputed locations (ordered for walking-time minimization) with a google maps link next to each. From here they can click any of the links to be brought to their google maps app, in which they can obtain walking directions if necessary.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.

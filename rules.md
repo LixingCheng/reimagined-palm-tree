@@ -23,7 +23,7 @@ Periodically update team members on progress on all tasks. Leave descriptive com
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Constantly talk to each other about the project to ensure that the deadlines are not missed. 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together

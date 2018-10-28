@@ -74,9 +74,25 @@ The user will see a search bar/box that says "Start Typing", in this box the use
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+- Node class with the following fields/methods
+ - GPS Coordinates (Vector)
+ - Building Name (String)
+ - Identifier (int)
+ - List of Out-edges (linked list of edge-objects, defined as inner class below)
+ - Visited (boolean)
+ - Constructor method
+ 
+ - Inner class defined within Node with the following fields, for use in out-edge list)
+  - Pointer to other Node
+  - Edge weight, calculated with google maps API, stored as Double.
+ 
+ - Graph class with the following methods/fields:
+  - List of all nodes in graph (field)
+  - Main method + supporting methods to carry out computation (Dijkstra's Algo. most likely)
+  - Method to pull data from google maps (to determine edge weight)
+  - Graph constructor
 
 
-Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.

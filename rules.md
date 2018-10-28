@@ -14,6 +14,8 @@ Split up the tasks evenly, communicate who is doing what tasks, ensure that no o
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
+Periodically update team members on progress on all tasks. Leave descriptive commit comments so it's clear what has been accomplished.
+
 
 
 ## How will will communicate difficulties with a task assigned to us

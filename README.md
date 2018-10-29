@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: tjlarson4  name 1: Thor Larson
        * GitHub username 2: j-gorka    name 2: Joe Gorka
-       * GitHub username 3:         name 3: 
+       * GitHub username 3: Namwannn   name 3: Donyaporn Kittivatcharapong 
        * GitHub username 4:         name 4:
    * When did you complete this exercise? 
        * On 10/28/18

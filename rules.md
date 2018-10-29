@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 82 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -16,13 +16,12 @@ Split up the tasks evenly, communicate who is doing what tasks, ensure that no o
 
 Periodically update team members on progress on all tasks. Leave descriptive commit comments so it's clear what has been accomplished.
 
-
-
 ## How will will communicate difficulties with a task assigned to us
+
 Everyone let other team members know his or her difficulties with the task using the group texting, so other team members could offer help.
 
-
 ## How we will back up each other to ensure that deadlines are not missed
+
 Constantly talk to each other about the project to ensure that the deadlines are not missed. 
 
 

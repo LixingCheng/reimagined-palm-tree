@@ -7,17 +7,15 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: tjlarson4      name 1: Thor Larson
+       * GitHub username 1: tjlarson4  name 1: Thor Larson
        * GitHub username 2:         name 2: 
        * GitHub username 3:         name 3: 
        * GitHub username 4:         name 4:
    * When did you complete this exercise? 
-   
-   On 10/28/18
+       * On 10/28/18
    
    * How long did it take your team to complete this exercise? 
-
-   It took a little over an hour to finish
+       * It took a little over an hour to finish
 
 ## Table of Contents
 

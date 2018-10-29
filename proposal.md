@@ -34,12 +34,12 @@ Every freshman must take a lap of campus prior to the start of classes in order 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-Freshman Pathfinder
 
+Freshman Pathfinder
 
 2. Output: Describe the output your program will produce.
 
-The program will output a list of the class locations with their Google Map locations, ordered in such a way as to minimize total time spent walking. Included also will be an estimate (pulled from Google Maps) of the total time required to complete the trip.
+The program will output a list of the class locations with their Google Map locations, ordered in such a way as to minimize total time spent walking. Included also will be an estimate (pulled from Google Maps) of the total walking time required to complete the trip.
 
 Example Output:
 
@@ -60,16 +60,20 @@ Total time to complete: ~30 minutes
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-All the buildings the freshman want to visit
+- Starting Point: a single dorm hall
+- Class locations: a list of the buildings the freshman wants to visit
 
 Example Input:
+
+Witte
+
 Humanities 3650
 CS 1366
 Social Sciences 5206
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-The user will see a search bar/box that says "Start Typing", in this box the user will begin typing the first class location they wish to input. As they type, the program will begin suggesting results pulled from a pre-loaded list of buildings. Once a building is selected, the user will be able to use a small "add location" button to gain access to another search box in which they can add another class location. In this manner the user will enter in all of the campus buildings they wish to visit. Once the user is satisfied with their building list, they will press a "map" button at the bottom of the screen. On completion of the path calculation, the user will be shown an list of their inputed locations (ordered for walking-time minimization) with a google maps link next to each. From here they can click any of the links to be brought to their google maps app, in which they can obtain walking directions if necessary.
+The user will see a search bar/box that says "Start Typing", in this box the user will begin typing the dorm that they live in which will be their starting point. As they type, the program will begin suggesting results pulled from a pre-loaded list of dorm buildings. After selecting a dorm, the user will press a button to start adding buildings. Another search bar will appear and the user will start typing the first class location they wish to input. Similar to the dorm selection, as they type, the program will begin suggesting results pulled from a pre-loaded list of class buildings. Once a building is selected, the user will be able to use a small "add location" button to gain access to another search box in which they can add another class location. In this manner the user will enter in all of the campus buildings they wish to visit. Once the user is satisfied with their building list, they will press a "map" button at the bottom of the screen. On completion of the path calculation, the user will be shown an list of their inputed locations (ordered for walking-time minimization) with a google maps link next to each. From here they can click any of the links to be brought to their google maps app, in which they can obtain walking directions if necessary.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.

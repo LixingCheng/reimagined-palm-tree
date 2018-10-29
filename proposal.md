@@ -43,18 +43,20 @@ The program will output a list of the class locations with their Google Map loca
 
 Example Output:
 
-B102 Van Vleck https://www.google.com/maps/place/Van+Vleck+Hall/@43.0747707,-89.4045918,15z/data=!4m5!3m4!1s0x0:0x49bf687f6d3235d6!8m2!3d43.0747707!4d-89.4045918
+Starting from: Witte Hall
 
-CS 1366
+1) B102 Van Vleck https://www.google.com/maps/place/Van+Vleck+Hall/@43.0747707,-89.4045918,15z/data=!4m5!3m4!1s0x0:0x49bf687f6d3235d6!8m2!3d43.0747707!4d-89.4045918
+
+2) CS 1366
 https://www.google.com/maps/place/UW-Madison+Department+of+Computer+Sciences/@43.0714546,-89.4088143,17z/data=!3m1!4b1!4m5!3m4!1s0x8807accf4987c883:0x5c8312db7bc7df9!8m2!3d43.0714507!4d-89.4066203
 
-Humanities 3650
+3) Humanities 3650
 https://www.google.com/maps/place/George+L+Mosse+Humanities+Building/@43.0741742,-89.4022384,17z/data=!3m1!4b1!4m5!3m4!1s0x8807accae420d1b3:0xff6a958a9f3b112f!8m2!3d43.0741703!4d-89.4000444
 
-Social Sciences 5206
+4) Social Sciences 5206
 https://www.google.com/maps/place/William+H.+Sewell+Social+Sciences+Building,+1180+Observatory+Dr,+Madison,+WI+53706/@43.0765045,-89.4074916,17z/data=!3m1!4b1!4m5!3m4!1s0x8807acb62ed610c5:0xaeb4a15899906c15!8m2!3d43.0765006!4d-89.4052976
 
-Total time to complete: ~30 minutes
+Total time to complete trip: ~30 minutes
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
@@ -71,7 +73,11 @@ Social Sciences 5206
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-The user will see a search bar/box that says "Start Typing", in this box the user will begin typing the dorm that they live in which will be their starting point. As they type, the program will begin suggesting results pulled from a pre-loaded list of dorm buildings. After selecting a dorm, the user will press a button to start adding buildings. Another search bar will appear and the user will start typing the first class location they wish to input. Similar to the dorm selection, as they type, the program will begin suggesting results pulled from a pre-loaded list of class buildings. Once a building is selected, the user will be able to use a small "add location" button to gain access to another search box in which they can add another class location. In this manner the user will enter in all of the campus buildings they wish to visit. Once the user is satisfied with their building list, they will press a "map" button at the bottom of the screen. On completion of the path calculation, the user will be shown an list of their inputed locations (ordered for walking-time minimization) with a google maps link next to each. From here they can click any of the links to be brought to their google maps app, in which they can obtain walking directions if necessary.
+The user will see a search bar/box that says "Start Typing", in this box the user will begin typing the dorm that they live in which will be their starting point. As they type, the program will begin suggesting results pulled from a pre-loaded list of dorm buildings. 
+
+After selecting a dorm, the user will press a button to start adding buildings. Another search bar will appear and the user will start typing the first class location they wish to input. Similar to the dorm selection, as they type, the program will begin suggesting results pulled from a pre-loaded list of class buildings. Once a building is selected, the user will be able to use a small "add location" button to gain access to another search box in which they can add another class location. In this manner the user will enter in all of the campus buildings they wish to visit. Once the user is satisfied with their building list, they will press a "map" button at the bottom of the screen. 
+
+On completion of the path calculation, the user will be shown an list of their inputed locations (ordered for walking-time minimization) with a google maps link next to each. From here they can click any of the links to be brought to their google maps app, in which they can obtain walking directions if necessary.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
